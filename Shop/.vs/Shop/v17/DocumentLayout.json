@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\Tweb_Project\\Shop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|c:\\users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\desktop\\tweb_project\\shop\\carshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|c:\\users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\desktop\\tweb_project\\shop\\carshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|c:\\users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\desktop\\tweb_project\\shop\\carshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\Tweb_Project\\Shop\\carshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|c:\\users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\desktop\\tweb_project\\shop\\carshop\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\Tweb_Project\\Shop\\carshop\\content\\mystyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\content\\mystyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\Tweb_Project\\Shop\\carshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|c:\\users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\desktop\\tweb_project\\shop\\carshop\\models\\biciclete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\models\\biciclete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,51 +38,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MyStyle.css",
-              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\Tweb_Project\\Shop\\CarShop\\Content\\MyStyle.css",
-              "RelativeDocumentMoniker": "CarShop\\Content\\MyStyle.css",
-              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\Tweb_Project\\Shop\\CarShop\\Content\\MyStyle.css",
-              "RelativeToolTip": "CarShop\\Content\\MyStyle.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-11T12:11:44.231Z"
+              "DocumentIndex": 4,
+              "Title": "Biciclete.cs",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\Tweb_Project\\Shop\\CarShop\\models\\Biciclete.cs",
+              "RelativeDocumentMoniker": "CarShop\\models\\Biciclete.cs",
+              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\Tweb_Project\\Shop\\CarShop\\models\\Biciclete.cs",
+              "RelativeToolTip": "CarShop\\models\\Biciclete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:52:46.346Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\Tweb_Project\\Shop\\CarShop\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "CarShop\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\Tweb_Project\\Shop\\CarShop\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "CarShop\\Views\\_ViewStart.cshtml",
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\Tweb_Project\\Shop\\CarShop\\models\\Model.cs",
+              "RelativeDocumentMoniker": "CarShop\\models\\Model.cs",
+              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\Tweb_Project\\Shop\\CarShop\\models\\Model.cs",
+              "RelativeToolTip": "CarShop\\models\\Model.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T10:49:26.569Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:52:40.958Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\Tweb_Project\\Shop\\CarShop\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CarShop\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\Tweb_Project\\Shop\\CarShop\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "CarShop\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T10:32:07.796Z"
+              "WhenOpened": "2025-02-14T16:31:53.057Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\Tweb_Project\\Shop\\CarShop\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CarShop\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\Tweb_Project\\Shop\\CarShop\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "CarShop\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAADaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T09:59:57.082Z",
+              "WhenOpened": "2025-02-14T16:10:18.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\Tweb_Project\\Shop\\CarShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CarShop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\Tweb_Project\\Shop\\CarShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CarShop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:42:46.503Z",
               "EditorCaption": ""
             }
           ]
