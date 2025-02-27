@@ -140,6 +140,12 @@
     </Compile>
     <Compile Include="Models\Biciclete.cs" />
     <Compile Include="Models\Model.cs" />
+    <Compile Include="Models\my\Bicycle.cs" />
+    <Compile Include="Models\my\Category.cs" />
+    <Compile Include="Models\my\interfaces\IAllBicycles.cs" />
+    <Compile Include="Models\my\interfaces\IBicycleCategory.cs" />
+    <Compile Include="Models\my\mock\MockBicycle.cs" />
+    <Compile Include="Models\my\mock\MockCategory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
