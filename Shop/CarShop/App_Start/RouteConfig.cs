@@ -13,6 +13,14 @@ namespace CarShop
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
+            // Маршрут для страницы деталей
+            routes.MapRoute(
+                name: "ProductDetails",
+                url: "Product/Details/{id}",
+                defaults: new { controller = "Product", action = "Details", id = UrlParameter.Optional }
+            );
+
+            // Основной маршрут по умолчанию
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",

@@ -9,19 +9,18 @@ namespace CarShop.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly MockBicycle _allBicycles = new MockBicycle();
-        private readonly MockCategory _allCategories = new MockCategory();
+        //private readonly MockBicycle _allBicycles = new MockBicycle();
+        //private readonly MockCategory _allCategories = new MockCategory();
 
-        public HomeController()
-        {
-            // Убедитесь, что объекты инициализированы
-        }
+        //public HomeController()
+        //{
+        //    // Убедитесь, что объекты инициализированы
+        //}
 
         // GET: Home
         public ActionResult Index()
         {
-            var bicycles = _allBicycles.Bicycles;
-            return View(bicycles);
+            return RedirectToAction("Index", "Product");
         }
     }
 }

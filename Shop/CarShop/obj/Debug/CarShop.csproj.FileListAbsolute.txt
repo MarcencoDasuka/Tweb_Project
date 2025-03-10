@@ -184,3 +184,7 @@ C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\obj\Debug\CarShop.csproj
 C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\obj\Debug\CarShop.csproj.Up2Date
 C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\obj\Debug\CarShop.dll
 C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\obj\Debug\CarShop.pdb
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\bin\EntityFramework.dll
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\bin\EntityFramework.xml
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\bin\EntityFramework.SqlServer.xml

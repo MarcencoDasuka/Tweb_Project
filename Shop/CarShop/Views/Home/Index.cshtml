@@ -1,41 +1,8 @@
-﻿@using CarShop.Models.my
-@model IEnumerable<Bicycle>
+﻿
+@{
+    ViewBag.Title = "Index";
+}
 
-@*@{
-    ViewBag.Title = "Список Велосипедов";
-}*@
+<h2>Index</h2>
+о нас
 
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8" />
-    <title>@ViewBag.Title</title>
-    <link rel="stylesheet" type="text/css" href="~/Content/bootstrap.css" />
-</head>
-<body>
-    <div class="container">
-        <h1>@ViewBag.Title</h1>
-        <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
-            @foreach (var bicycle in Model)
-            {
-                <div class="col">
-                    <div class="card mb-4 rounded-3 shadow-sm">
-                        <div class="card-header py-3">
-                            <h4 class="my-0 fw-normal">@bicycle.name</h4>
-                        </div>
-                        <div class="card-body">
-                            <img src="@bicycle.img" alt="@bicycle.name" class="img-fluid" />
-                            <h1 class="card-title pricing-card-title">$@bicycle.price</h1>
-                            <ul class="list-unstyled mt-3 mb-4">
-                                <li>@bicycle.shortDesc</li>
-                                <li>@bicycle.longDesc</li>
-                            </ul>
-                            <button type="button" class="w-100 btn btn-lg btn-outline-primary">Подробнее</button>
-                        </div>
-                    </div>
-                </div>
-            }
-        </div>
-    </div>
-</body>
-</html>

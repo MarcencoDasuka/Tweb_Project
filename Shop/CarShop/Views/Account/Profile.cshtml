@@ -1,0 +1,27 @@
+﻿@{
+    ViewBag.Title = "Профиль";
+}
+
+<h2 class="text-center">Профиль пользователя</h2>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-4">
+            <div class="text-center mb-4">
+                <!-- Простое изображение (заглушка) для фото пользователя -->
+                <img src="https://via.placeholder.com/150" alt="Фото пользователя" class="rounded-circle img-thumbnail">
+            </div>
+            <form>
+                <div class="form-group mb-3">
+                    <label for="exampleInputEmail1">Email пользователя</label>
+                    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Введите email">
+                </div>
+                <div class="form-group mb-3">
+                    <label for="exampleInputPassword1">Пароль</label>
+                    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Введите пароль">
+                </div>
+                <button type="submit" class="btn btn-primary w-100">Обновить профиль</button>
+            </form>
+        </div>
+    </div>
+</div>
