@@ -267,3 +267,16 @@ C:\Users\наш компухтер\Desktop\dfgf\Tweb_Project\Shop\CarShop\bin\We
 C:\Users\наш компухтер\Desktop\dfgf\Tweb_Project\Shop\CarShop\bin\Antlr3.Runtime.pdb
 C:\Users\наш компухтер\Desktop\dfgf\Tweb_Project\Shop\CarShop\bin\System.Web.Optimization.xml
 C:\Users\наш компухтер\Desktop\dfgf\Tweb_Project\Shop\CarShop\bin\System.Web.Optimization.Less.xml
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\bin\Antlr3.Runtime.dll
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\bin\dotless.AspNet.dll
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\bin\dotless.Core.dll
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\bin\System.Web.Optimization.dll
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\bin\System.Web.Optimization.Less.dll
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\bin\WebGrease.dll
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\bin\Antlr3.Runtime.pdb
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\bin\System.Web.Optimization.xml
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\bin\System.Web.Optimization.Less.xml
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\bin\Shop.BuisnesLogic.dll
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\bin\Shop.Domain.dll
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\bin\Shop.BuisnesLogic.pdb
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\bin\Shop.Domain.pdb

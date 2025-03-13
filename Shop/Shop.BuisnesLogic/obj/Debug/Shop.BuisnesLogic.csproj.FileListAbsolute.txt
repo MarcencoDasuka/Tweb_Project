@@ -1,0 +1,11 @@
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.BuisnesLogic\bin\Debug\Shop.BuisnesLogic.dll
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.BuisnesLogic\bin\Debug\Shop.BuisnesLogic.pdb
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.BuisnesLogic\bin\Debug\Shop.Domain.dll
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.BuisnesLogic\bin\Debug\Shop.Helper.dll
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.BuisnesLogic\bin\Debug\Shop.Domain.pdb
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.BuisnesLogic\bin\Debug\Shop.Helper.pdb
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.BuisnesLogic\obj\Debug\Shop.BuisnesLogic.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.BuisnesLogic\obj\Debug\Shop.BuisnesLogic.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.BuisnesLogic\obj\Debug\Shop.Bui.0625332E.Up2Date
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.BuisnesLogic\obj\Debug\Shop.BuisnesLogic.dll
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.BuisnesLogic\obj\Debug\Shop.BuisnesLogic.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.Helper\bin\Debug\Shop.Helper.dll
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.Helper\bin\Debug\Shop.Helper.pdb
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.Helper\obj\Debug\Shop.Helper.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.Helper\obj\Debug\Shop.Helper.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.Helper\obj\Debug\Shop.Helper.dll
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.Helper\obj\Debug\Shop.Helper.pdb
