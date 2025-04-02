@@ -280,3 +280,5 @@ C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\bin\Shop.BuisnesLogic.dl
 C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\bin\Shop.Domain.dll
 C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\bin\Shop.BuisnesLogic.pdb
 C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\bin\Shop.Domain.pdb
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\bin\SpecFlow.Internal.Json.dll
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\bin\Shop.BuisnesLogic.dll.config

@@ -9,3 +9,12 @@ C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.BuisnesLogic\obj\Debug\Shop
 C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.BuisnesLogic\obj\Debug\Shop.Bui.0625332E.Up2Date
 C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.BuisnesLogic\obj\Debug\Shop.BuisnesLogic.dll
 C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.BuisnesLogic\obj\Debug\Shop.BuisnesLogic.pdb
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.BuisnesLogic\bin\Debug\Shop.BuisnesLogic.dll.config
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.BuisnesLogic\bin\Debug\EntityFramework.dll
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.BuisnesLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.BuisnesLogic\bin\Debug\EntityFramework.xml
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.BuisnesLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.BuisnesLogic\obj\Debug\Shop.BuisnesLogic.Migrations.InitialCreate.resources
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.BuisnesLogic\obj\Debug\Shop.BuisnesLogic.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.BuisnesLogic\obj\Debug\Shop.BuisnesLogic.Migrations.AddAdminUser.resources
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.BuisnesLogic\obj\Debug\Shop.BuisnesLogic.Migrations.FixAdminRoleAssignment.resources

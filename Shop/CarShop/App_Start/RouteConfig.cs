@@ -20,12 +20,35 @@ namespace CarShop
                 defaults: new { controller = "Product", action = "Details", id = UrlParameter.Optional }
             );
 
+
+
+            // Админ-маршруты
+            routes.MapRoute(
+                name: "Admin",
+                url: "Admin/{action}/{id}",
+                defaults: new
+                {
+                    controller = "Admin",
+                    action = "Index",
+                    id = UrlParameter.Optional
+                }
+            );
+
+
+
+
             // Основной маршрут по умолчанию
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
             );
+
+            //routes.MapRoute(
+            //    name: "AdminIndex",
+            //    url: "Admin/Index",
+            //    defaults: new { controller = "Admin", action = "Index", id = UrlParameter.Optional }
+            //);
         }
     }
 }

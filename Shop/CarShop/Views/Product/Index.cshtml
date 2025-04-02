@@ -1,9 +1,9 @@
-﻿@using CarShop.Models.my
-@model IEnumerable<Bicycle>
+﻿@*@using CarShop.Models.my
+    @model IEnumerable<Bicycle>*@
 
 @*@{
-    ViewBag.Title = "Список Велосипедов";
-}*@
+        ViewBag.Title = "Список Велосипедов";
+    }*@
 
 <!DOCTYPE html>
 <html>
@@ -21,27 +21,27 @@
             <p class="fs-5 text-body-secondary">Самые лучшие велосипеды по самым низким ценам и качественной доставкой в Республике Молдова</p>
         </div>
 
-
         <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
-            @foreach (var bicycle in Model)
-            {
-                <div class="col">
-                    <div class="card mb-4 rounded-3 shadow-sm">
-                        <div class="card-header py-3">
-                            <h4 class="my-0 fw-normal">@bicycle.name</h4>
-                        </div>
-                        <div class="card-body">
-                            <img src="@bicycle.img" alt="@bicycle.name" class="img-fluid" />
-                            <h1 class="card-title pricing-card-title">$@bicycle.price</h1>
-                            <ul class="list-unstyled mt-3 mb-4">
-                                <li>@bicycle.shortDesc</li>
-                                @*<li>@bicycle.longDesc</li>*@
-                            </ul>
-                            <a href="/Product/Details/@bicycle.id" class="w-100 btn btn-lg btn-outline-primary">Подробнее</a>
-                        </div>
+            @* Цикл закомментирован, но HTML остаётся *@
+            @*@foreach (var bicycle in Model)
+                {*@
+            <div class="col">
+                <div class="card mb-4 rounded-3 shadow-sm">
+                    <div class="card-header py-3">
+                        <h4 class="my-0 fw-normal">Название велосипеда</h4>
+                    </div>
+                    <div class="card-body">
+                        <img src="/placeholder.jpg" alt="Велосипед" class="img-fluid" />
+                        <h1 class="card-title pricing-card-title">$0</h1>
+                        <ul class="list-unstyled mt-3 mb-4">
+                            <li>Описание отсутствует</li>
+                            @*<li>@bicycle.longDesc</li>*@
+                        </ul>
+                        <a href="#" class="w-100 btn btn-lg btn-outline-primary">Подробнее</a>
                     </div>
                 </div>
-            }
+            </div>
+            @*}*@
         </div>
     </div>
 </body>
