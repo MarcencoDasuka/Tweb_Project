@@ -1,0 +1,11 @@
+﻿@model Shop.Domain.Entities.Bike
+
+<h2>Подтвердите удаление товара</h2>
+
+<p>Вы уверены, что хотите удалить товар: <strong>@Model.Name</strong>?</p>
+
+<form action="@Url.Action("DeleteConfirmed", "Product", new { id = Model.Id })" method="post">
+    @Html.AntiForgeryToken()
+    <button type="submit" class="btn btn-danger">Удалить</button>
+    <a href="@Url.Action("Index", "Product")" class="btn btn-secondary ml-3">Отмена</a>
+</form>

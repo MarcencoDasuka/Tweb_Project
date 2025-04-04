@@ -1,37 +1,35 @@
-﻿@*@using CarShop.Models.my
-@model Bicycle*@
+﻿@model Shop.Domain.Entities.Bike
 
 @{
     ViewBag.Title = "Подробнее о товаре";
 }
 
-<div class="container mt-5">
-    <div class="card shadow-lg border-0">
-        <div class="row g-0">
-            <div class="col-md-5">
-                <!-- Фотография товара -->
-                <img src="@Model.img" alt="@Model.name" class="img-fluid rounded-start" style="object-fit: cover; height: 100%; max-height: 400px;">
-            </div>
-            <div class="col-md-7">
-                <div class="card-body">
-                    <!-- Название и описание -->
-                    <h2 class="card-title">@Model.name</h2>
-                    <p class="card-text text-muted mb-3">@Model.shortDesc</p>
-                    <p class="card-text" style="font-size: 1.1rem;">@Model.longDesc</p>
+<h2 class="text-center">@Model.Name</h2>
 
-                    <!-- Информация о цене -->
-                    <h4 class="text-primary">Цена: @Model.price ₽</h4>
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-6">
+            <img src="@Model.ImageUrl" alt="@Model.Name" class="img-fluid rounded" />
+        </div>
+        <div class="col-md-6">
+            <h3>Описание</h3>
+            <p>@Model.Description</p>
+            <p><strong>Краткое описание: </strong>@Model.ShortDescription</p>
+            <p><strong>Цена: </strong>@Model.Price ₽</p>
+            <p><strong>Доступность: </strong>@(Model.UserId.HasValue ? "В наличии" : "Нет в наличии")</p>
 
-                    <!-- Доступность -->
-                    <p class="mb-3"><strong>Доступность:</strong>  @(Model.available ? "В наличии" : "Нет в наличии")</p>
-
-                    <!-- Кнопки -->
-                    <div class="d-flex gap-3">
-                        <a href="/Cart/Add/@Model.id" class="btn btn-success btn-lg">Добавить в корзину</a>
-                        <a href="/" class="btn btn-outline-secondary btn-lg">Вернуться на главную</a>
-                    </div>
+            @if (ViewBag.CanDelete != null && ViewBag.CanDelete == true)
+            {
+                <div class="mt-3">
+                    @using (Html.BeginForm("Delete", "Product", new { id = Model.Id }, FormMethod.Post))
+                    {
+                        @Html.AntiForgeryToken()
+                        <button type="submit" class="btn btn-danger">Удалить товар</button>
+                    }
                 </div>
-            </div>
+            }
+
+            <a href="@Url.Action("Index", "Product")" class="btn btn-secondary mt-3">Назад к списку</a>
         </div>
     </div>
 </div>

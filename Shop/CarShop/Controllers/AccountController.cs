@@ -128,6 +128,7 @@ namespace CarShop.Controllers
 
                 // 4. Добавляем куки в ответ
                 Response.Cookies.Add(authCookie);
+                Session["UserId"] = user.Id;
 
                 // 5. Перенаправляем НА ПРОФИЛЬ (а не на Index)
                 return RedirectToAction("Profile", "Account");

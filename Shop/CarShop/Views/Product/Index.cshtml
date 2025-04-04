@@ -1,48 +1,83 @@
-﻿@*@using CarShop.Models.my
-    @model IEnumerable<Bicycle>*@
+﻿@model IEnumerable<Shop.Domain.Entities.Bike>
 
-@*@{
-        ViewBag.Title = "Список Велосипедов";
-    }*@
+@{
+    ViewBag.Title = "Каталог товаров";
+}
 
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8" />
-    <title>@ViewBag.Title</title>
-    <link rel="stylesheet" type="text/css" href="~/Content/bootstrap.css" />
-</head>
-<body>
-    <div class="container">
-        <h1>@ViewBag.Title</h1>
+<div class="container">
+    <div class="pricing-header p-3 pb-md-4 mx-auto text-center">
+        <h1 class="display-4 fw-normal text-body-emphasis">Каталог товаров</h1>
+        <p class="fs-5 text-body-secondary">Самые лучшие велосипеды по самым низким ценам</p>
+    </div>
 
-        <div class="pricing-header p-3 pb-md-4 mx-auto text-center">
-            <h1 class="display-4 fw-normal text-body-emphasis">Каталог товаров</h1>
-            <p class="fs-5 text-body-secondary">Самые лучшие велосипеды по самым низким ценам и качественной доставкой в Республике Молдова</p>
-        </div>
+    <!-- Кнопка добавления -->
+    <div class="text-end mb-5">
+        <!-- Увеличен отступ снизу -->
+        <a href="@Url.Action("Create", "Product")" class="btn btn-success rounded-circle"
+           style="width: 50px; height: 50px; font-size: 24px; line-height: 50px;"
+           title="Добавить товар">+</a>
+    </div>
 
-        <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
-            @* Цикл закомментирован, но HTML остаётся *@
-            @*@foreach (var bicycle in Model)
-                {*@
-            <div class="col">
-                <div class="card mb-4 rounded-3 shadow-sm">
-                    <div class="card-header py-3">
-                        <h4 class="my-0 fw-normal">Название велосипеда</h4>
+    <div class="row row-cols-1 row-cols-md-3 g-5">
+        <!-- g-4 → g-5 (увеличено расстояние) -->
+        @foreach (var bike in Model)
+        {
+            <div class="col mb-4">
+                <!-- Добавлен mb-4 -->
+                <!-- Карточка с названием -->
+                <div class="card mb-3 shadow-sm rounded-3">
+                    <!-- Увеличен отступ снизу -->
+                    <div class="card-body py-2">
+                        <h5 class="my-0 fw-normal text-center mb-0">@bike.Name</h5>
                     </div>
-                    <div class="card-body">
-                        <img src="/placeholder.jpg" alt="Велосипед" class="img-fluid" />
-                        <h1 class="card-title pricing-card-title">$0</h1>
-                        <ul class="list-unstyled mt-3 mb-4">
-                            <li>Описание отсутствует</li>
-                            @*<li>@bicycle.longDesc</li>*@
-                        </ul>
-                        <a href="#" class="w-100 btn btn-lg btn-outline-primary">Подробнее</a>
+                </div>
+
+                <!-- Основная карточка товара -->
+                <div class="card h-100 shadow-sm rounded-3" style="min-height: 450px;">
+                    <div style="height: 265px; overflow: hidden;">
+                        <img src="@bike.ImageUrl" alt="@bike.Name"
+                             class="img-fluid w-100 h-100 object-fit-cover rounded-top-0" />
+                    </div>
+                    <div class="card-body d-flex flex-column">
+                        <div class="mb-2">
+                            <h2 class="card-title pricing-card-title text-center">@bike.Price ₽</h2>
+                            <div style="height: 72px; overflow: hidden;">
+                                <p class="card-text text-center">@bike.ShortDescription</p>
+                            </div>
+                        </div>
+                        <div class="mt-auto pt-2">
+                            <a href="/Product/Details/@bike.Id"
+                               class="w-100 btn btn-lg btn-outline-primary">Подробнее</a>
+                        </div>
                     </div>
                 </div>
             </div>
-            @*}*@
-        </div>
+        }
     </div>
-</body>
-</html>
+</div>
+
+<style>
+    .object-fit-cover {
+        object-fit: cover;
+    }
+
+    .rounded-top-0 {
+        border-top-left-radius: 0 !important;
+        border-top-right-radius: 0 !important;
+    }
+
+    .card {
+        transition: all 0.3s ease;
+        border: 1px solid rgba(0,0,0,0.125);
+    }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 12px 24px rgba(0,0,0,0.15); /* Усиленная тень */
+        }
+
+    .card-header h5 {
+        font-size: 1.25rem;
+        font-weight: 600;
+    }
+</style>

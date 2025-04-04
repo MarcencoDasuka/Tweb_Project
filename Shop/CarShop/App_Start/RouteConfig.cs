@@ -15,10 +15,11 @@ namespace CarShop
 
             // Маршрут для страницы деталей
             routes.MapRoute(
-                name: "ProductDetails",
-                url: "Product/Details/{id}",
-                defaults: new { controller = "Product", action = "Details", id = UrlParameter.Optional }
-            );
+              name: "ProductDetails",
+              url: "Product/Details/{id}",
+              defaults: new { controller = "Product", action = "Details" }
+             );
+
 
 
 
