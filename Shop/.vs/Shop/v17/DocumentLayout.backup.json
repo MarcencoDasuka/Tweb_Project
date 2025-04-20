@@ -1,57 +1,97 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\",
+  "WorkspaceRootPath": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|c:\\users\\alex\\desktop\\full\\tweb_project\\shop\\carshop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|c:\\users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\tweb_project\\shop\\carshop\\views\\home\\support.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\views\\home\\support.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\carshop\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|c:\\users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\tweb_project\\shop\\carshop\\views\\home\\team.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\views\\home\\team.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|c:\\users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\tweb_project\\shop\\carshop\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\carshop\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\carshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|c:\\users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\tweb_project\\shop\\carshop\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\carshop\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|c:\\users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\tweb_project\\shop\\carshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\carshop\\views\\product\\deleteconfirmed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\views\\product\\deleteconfirmed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|c:\\users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\tweb_project\\shop\\carshop\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\carshop\\views\\product\\confirmdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|c:\\users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\tweb_project\\shop\\carshop\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|c:\\users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\tweb_project\\shop\\carshop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|c:\\users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\tweb_project\\shop\\carshop\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|c:\\users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\tweb_project\\shop\\carshop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\carshop\\views\\product\\confirmdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\views\\product\\confirmdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\carshop\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\carshop\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\carshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F037E03-EB32-41A1-8750-466EFEEA077A}|Shop.Domain\\Shop.Domain.csproj|C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\shop.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F037E03-EB32-41A1-8750-466EFEEA077A}|Shop.Domain\\Shop.Domain.csproj|solutionrelative:shop.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\carshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\carshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F037E03-EB32-41A1-8750-466EFEEA077A}|Shop.Domain\\Shop.Domain.csproj|C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\shop.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|c:\\users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\tweb_project\\shop\\carshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|c:\\users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\tweb_project\\shop\\carshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\carshop\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\carshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\carshop\\views\\product\\deleteconfirmed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\views\\product\\deleteconfirmed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\carshop\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\carshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F037E03-EB32-41A1-8750-466EFEEA077A}|Shop.Domain\\Shop.Domain.csproj|C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\shop.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F037E03-EB32-41A1-8750-466EFEEA077A}|Shop.Domain\\Shop.Domain.csproj|solutionrelative:shop.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F037E03-EB32-41A1-8750-466EFEEA077A}|Shop.Domain\\Shop.Domain.csproj|C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\shop.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F037E03-EB32-41A1-8750-466EFEEA077A}|Shop.Domain\\Shop.Domain.csproj|solutionrelative:shop.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\carshop\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\carshop\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{798E279E-FE60-4D6F-A682-F16C1CE3D066}|CarShop\\CarShop.csproj|solutionrelative:carshop\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 341,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,10 +111,153 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Web.config",
+              "RelativeDocumentMoniker": "CarShop\\Web.config",
+              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Web.config",
+              "RelativeToolTip": "CarShop\\Web.config",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-20T16:43:45.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CarShop\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CarShop\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T16:43:42.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "CarShop\\Views\\Admin\\Create.cshtml",
+              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "CarShop\\Views\\Admin\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T16:43:32.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "CarShop\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "CarShop\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T16:43:27.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "CarShop\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "CarShop\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T16:41:35.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Support.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Home\\Support.cshtml",
+              "RelativeDocumentMoniker": "CarShop\\Views\\Home\\Support.cshtml",
+              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Home\\Support.cshtml",
+              "RelativeToolTip": "CarShop\\Views\\Home\\Support.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T16:15:41.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Team.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Home\\Team.cshtml",
+              "RelativeDocumentMoniker": "CarShop\\Views\\Home\\Team.cshtml",
+              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Home\\Team.cshtml",
+              "RelativeToolTip": "CarShop\\Views\\Home\\Team.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T16:15:03.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "CarShop\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "CarShop\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T16:14:13.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CarShop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CarShop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:12:47.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "CarShop\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "CarShop\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T16:07:03.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarShop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CarShop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T16:06:39.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "DeleteConfirmed.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\CarShop\\Views\\Product\\DeleteConfirmed.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Product\\DeleteConfirmed.cshtml",
               "RelativeDocumentMoniker": "CarShop\\Views\\Product\\DeleteConfirmed.cshtml",
-              "ToolTip": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\CarShop\\Views\\Product\\DeleteConfirmed.cshtml",
+              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Product\\DeleteConfirmed.cshtml",
               "RelativeToolTip": "CarShop\\Views\\Product\\DeleteConfirmed.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -82,11 +265,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\CarShop\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "CarShop\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\CarShop\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Controllers\\ProductController.cs",
               "RelativeToolTip": "CarShop\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAHgAAAAAAAAAAAAQwKAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -94,13 +277,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\CarShop\\Views\\Product\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "CarShop\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\CarShop\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "CarShop\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAACkAAAAAAAAAAAAkwFIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAkwFIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-04T17:07:34.834Z",
               "EditorCaption": ""
@@ -108,46 +291,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\CarShop\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "CarShop\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\CarShop\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "CarShop\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAAwIkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T13:12:56.398Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\CarShop\\Views\\Product\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Product\\Details.cshtml",
               "RelativeDocumentMoniker": "CarShop\\Views\\Product\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\CarShop\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Product\\Details.cshtml",
               "RelativeToolTip": "CarShop\\Views\\Product\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAASwAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T17:21:54.373Z"
+              "WhenOpened": "2025-04-04T17:21:54.373Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "ConfirmDelete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\CarShop\\Views\\Product\\ConfirmDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Product\\ConfirmDelete.cshtml",
               "RelativeDocumentMoniker": "CarShop\\Views\\Product\\ConfirmDelete.cshtml",
-              "ToolTip": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\CarShop\\Views\\Product\\ConfirmDelete.cshtml",
+              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Product\\ConfirmDelete.cshtml",
               "RelativeToolTip": "CarShop\\Views\\Product\\ConfirmDelete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T19:46:33.634Z"
+              "WhenOpened": "2025-04-04T19:46:33.634Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\CarShop\\Views\\Admin\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "CarShop\\Views\\Admin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\CarShop\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Admin\\Index.cshtml",
               "RelativeToolTip": "CarShop\\Views\\Admin\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -155,23 +328,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\CarShop\\Views\\Product\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "CarShop\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\CarShop\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "CarShop\\Views\\Product\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAwwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T16:58:01.128Z"
+              "WhenOpened": "2025-04-04T16:58:01.128Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\CarShop\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "CarShop\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\CarShop\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Controllers\\AccountController.cs",
               "RelativeToolTip": "CarShop\\Controllers\\AccountController.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAgwIIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -179,11 +353,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\Shop.Domain\\Entities\\User.cs",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\Shop.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Shop.Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\Shop.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\Shop.Domain\\Entities\\User.cs",
               "RelativeToolTip": "Shop.Domain\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -191,23 +365,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\CarShop\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CarShop\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\CarShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "CarShop\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEwAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T19:30:03.545Z"
+              "WhenOpened": "2025-04-04T19:30:03.545Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\CarShop\\App_Start\\RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "CarShop\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\CarShop\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\CarShop\\App_Start\\RouteConfig.cs",
               "RelativeToolTip": "CarShop\\App_Start\\RouteConfig.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -215,25 +390,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\Shop.Domain\\Entities\\Role.cs",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\Shop.Domain\\Entities\\Role.cs",
               "RelativeDocumentMoniker": "Shop.Domain\\Entities\\Role.cs",
-              "ToolTip": "C:\\Users\\Alex\\Desktop\\full\\Tweb_Project\\Shop\\Shop.Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\\u043D\u0430\u0448 \u043A\u043E\u043C\u043F\u0443\u0445\u0442\u0435\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Tweb_Project\\Shop\\Shop.Domain\\Entities\\Role.cs",
               "RelativeToolTip": "Shop.Domain\\Entities\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-04T16:22:43.69Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 59,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

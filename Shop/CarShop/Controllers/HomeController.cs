@@ -13,5 +13,21 @@ namespace CarShop.Controllers
         {
             return RedirectToAction("Index", "Product");
         }
+
+        public ActionResult About()
+        {
+            return View();
+        }
+
+        public ActionResult Team()
+        {
+            return View();
+        }
+
+        public ActionResult Support()
+        {
+            return View();
+        }
+
     }
 }

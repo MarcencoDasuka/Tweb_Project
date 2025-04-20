@@ -4,3 +4,9 @@ C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.Helper\obj\Debug\Shop.Helpe
 C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.Helper\obj\Debug\Shop.Helper.csproj.CoreCompileInputs.cache
 C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.Helper\obj\Debug\Shop.Helper.dll
 C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.Helper\obj\Debug\Shop.Helper.pdb
+C:\Users\наш компухтер\Desktop\Новая папка (3)\Tweb_Project\Shop\Shop.Helper\bin\Debug\Shop.Helper.dll
+C:\Users\наш компухтер\Desktop\Новая папка (3)\Tweb_Project\Shop\Shop.Helper\bin\Debug\Shop.Helper.pdb
+C:\Users\наш компухтер\Desktop\Новая папка (3)\Tweb_Project\Shop\Shop.Helper\obj\Debug\Shop.Helper.csproj.AssemblyReference.cache
+C:\Users\наш компухтер\Desktop\Новая папка (3)\Tweb_Project\Shop\Shop.Helper\obj\Debug\Shop.Helper.csproj.CoreCompileInputs.cache
+C:\Users\наш компухтер\Desktop\Новая папка (3)\Tweb_Project\Shop\Shop.Helper\obj\Debug\Shop.Helper.dll
+C:\Users\наш компухтер\Desktop\Новая папка (3)\Tweb_Project\Shop\Shop.Helper\obj\Debug\Shop.Helper.pdb

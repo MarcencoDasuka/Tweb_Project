@@ -7,3 +7,12 @@ C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.Domain\obj\Debug\Shop.Domai
 C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.Domain\obj\Debug\Shop.Dom.40843D02.Up2Date
 C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.Domain\obj\Debug\Shop.Domain.dll
 C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.Domain\obj\Debug\Shop.Domain.pdb
+C:\Users\наш компухтер\Desktop\Новая папка (3)\Tweb_Project\Shop\Shop.Domain\bin\Debug\Shop.Domain.dll
+C:\Users\наш компухтер\Desktop\Новая папка (3)\Tweb_Project\Shop\Shop.Domain\bin\Debug\Shop.Domain.pdb
+C:\Users\наш компухтер\Desktop\Новая папка (3)\Tweb_Project\Shop\Shop.Domain\bin\Debug\Shop.Helper.dll
+C:\Users\наш компухтер\Desktop\Новая папка (3)\Tweb_Project\Shop\Shop.Domain\bin\Debug\Shop.Helper.pdb
+C:\Users\наш компухтер\Desktop\Новая папка (3)\Tweb_Project\Shop\Shop.Domain\obj\Debug\Shop.Domain.csproj.AssemblyReference.cache
+C:\Users\наш компухтер\Desktop\Новая папка (3)\Tweb_Project\Shop\Shop.Domain\obj\Debug\Shop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\наш компухтер\Desktop\Новая папка (3)\Tweb_Project\Shop\Shop.Domain\obj\Debug\Shop.Dom.40843D02.Up2Date
+C:\Users\наш компухтер\Desktop\Новая папка (3)\Tweb_Project\Shop\Shop.Domain\obj\Debug\Shop.Domain.dll
+C:\Users\наш компухтер\Desktop\Новая папка (3)\Tweb_Project\Shop\Shop.Domain\obj\Debug\Shop.Domain.pdb
