@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Shop.Domain.Entities.User>
+
+@{
+    ViewBag.Title = "Управление пользователями";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+}
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+}
+
+<p>
+    @Html.ActionLink("Добавить пользователя", "Create", null, new { @class = "btn btn-primary" })
+</p>
+
+<table class="table">
+    <tr>
+        <th>Логин</th>
+        <th>Роль</th>
+        <th>Действия</th>
+    </tr>
+
+    @foreach (var user in Model)
+    {
+        <tr>
+            <td>@user.Name</td>
+            <td>User</td>
+            <td>
+                @Html.ActionLink("Удалить", "Delete", new { id = user.Id }, new { @class = "btn btn-sm btn-danger" })
+            </td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,99 @@
+﻿@{
+    ViewBag.Title = "Оформление заказа";
+}
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+<div class="container mt-5 mb-5">
+    <h2 class="text-center mb-4">Оформление заказа</h2>
+
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <form id="orderForm">
+                <!-- Контактная информация -->
+                <div class="mb-4">
+                    <h5>Контактная информация</h5>
+                    <div class="form-group mb-2">
+                        <label for="name">ФИО</label>
+                        <input type="text" class="form-control" id="name" placeholder="Введите ваше имя" required>
+                    </div>
+                    <div class="form-group mb-2">
+                        <label for="email">Электронная почта</label>
+                        <input type="email" class="form-control" id="email" placeholder="example@mail.com" required>
+                    </div>
+                    <div class="form-group mb-2">
+                        <label for="phone">Телефон</label>
+                        <input type="tel"
+                               class="form-control"
+                               id="phone"
+                               name="phone"
+                               value="+373"
+                               inputmode="numeric"
+                               pattern="\+373[0-9]{8}"
+                               maxlength="12"
+                               placeholder="+373XXXXXXXX"
+                               required>
+                        <small class="form-text text-muted">Введите номер в формате: +373XXXXXXXX</small>
+                    </div>
+                </div>
+
+                <!-- Адрес доставки -->
+                <div class="mb-4">
+                    <h5>Адрес доставки</h5>
+                    <div class="form-group mb-2">
+                        <label for="address">Адрес</label>
+                        <input type="text" class="form-control" id="address" placeholder="Город, улица, дом, квартира" required>
+                    </div>
+                    <div class="form-row d-flex gap-3">
+                        <div class="form-group flex-fill">
+                            <label for="city">Город</label>
+                            <input type="text" class="form-control" id="city" required>
+                        </div>
+                        <div class="form-group flex-fill">
+                            <label for="zip">Индекс</label>
+                            <input type="text" class="form-control" id="zip" required>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Оплата -->
+                <div class="mb-4">
+                    <h5>Способ оплаты</h5>
+                    <select class="form-select" required>
+                        <option value="">Выберите способ оплаты</option>
+                        <option value="card">Банковская карта</option>
+                        <option value="cash">Наличные при получении</option>
+                        <option value="paypal">PayPal</option>
+                    </select>
+                </div>
+
+                <!-- Сообщение об обработке -->
+                <div id="processingMessage" class="alert alert-info text-center d-none">
+                    Ваш заказ обрабатывается...
+                </div>
+
+                <!-- Кнопка подтверждения -->
+                <div class="text-center">
+                    <button type="submit" class="btn btn-primary btn-lg px-5">Оплатить заказ</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script>
+    const form = document.getElementById('orderForm');
+    const message = document.getElementById('processingMessage');
+
+    form.addEventListener('submit', function (e) {
+        e.preventDefault(); // Остановить обычную отправку формы
+
+        message.classList.remove('d-none'); // Показать сообщение
+        message.scrollIntoView({ behavior: 'smooth' }); // Прокрутить к сообщению
+
+        // Через 2 секунды редирект на /Cart/Index
+        setTimeout(function () {
+            window.location.href = '/Cart/Index';
+        }, 2000);
+    });
+</script>

@@ -1,0 +1,39 @@
+﻿@model Shop.Domain.Entities.User
+@{
+    ViewBag.Title = "Профиль";
+}
+
+<h2 class="text-center">Профиль пользователя</h2>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <div class="mb-3">
+                        <label class="form-label">Логин:</label>
+                        <div class="form-control">@Model.Name</div>
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label">Пароль:</label>
+                        <div class="form-control">@Model.Password</div>
+                    </div>
+
+                    <div class="mb-4">
+                        <label class="form-label">Роль:</label>
+                        <div class="form-control">@(Model.Role?.Name ?? "User")</div>
+                    </div>
+
+                    <div class="d-grid gap-2">
+                        @using (Html.BeginForm("Logout", "Account"))
+                        {
+                            @Html.AntiForgeryToken()
+                            <button type="submit" class="btn btn-danger w-100">Выйти</button>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
