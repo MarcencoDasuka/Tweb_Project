@@ -19,6 +19,11 @@ namespace Shop.BuisnesLogic.context
         public DbSet<User> Users { get; set; }
         public DbSet<Role> Roles { get; set; }
         public DbSet<Bike> Bikes { get; set; }
+        public DbSet<Cart> Carts { get; set; }
+        public DbSet<CartItem> CartItems { get; set; }
+        public DbSet<Order> Orders { get; set; }
+        public DbSet<OrderItem> OrderItems { get; set; }
+
 
         // Переопределение метода для настройки моделей
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
@@ -38,6 +43,46 @@ namespace Shop.BuisnesLogic.context
                 .WithMany(u => u.Bikes)
                 .HasForeignKey(b => b.UserId)
                 .WillCascadeOnDelete(false);
-            }
+
+            // Корзина принадлежит одному пользователю
+            modelBuilder.Entity<Cart>()
+                .HasRequired(c => c.User)
+                .WithMany()  // У User нет коллекции Cart (однонаправленная связь)
+                .HasForeignKey(c => c.UserId)
+                .WillCascadeOnDelete(true);  // Удаление пользователя → удаление его корзины
+
+            // Элемент корзины связан с корзиной и товаром
+            modelBuilder.Entity<CartItem>()
+                .HasRequired(ci => ci.Cart)
+                .WithMany(c => c.Items)
+                .HasForeignKey(ci => ci.CartId)
+                .WillCascadeOnDelete(true);  // Удаление корзины → удаление её элементов
+
+            modelBuilder.Entity<CartItem>()
+                .HasRequired(ci => ci.Bike)
+                .WithMany()  // У Bike нет ссылки на CartItem
+                .HasForeignKey(ci => ci.BikeId)
+                .WillCascadeOnDelete(false);  // Товар нельзя удалить, если он в корзине
+
+            // Заказ принадлежит одному пользователю
+            modelBuilder.Entity<Order>()
+                .HasRequired(o => o.User)
+                .WithMany()
+                .HasForeignKey(o => o.UserId)
+                .WillCascadeOnDelete(true);
+
+            // Элемент заказа связан с заказом и товаром
+            modelBuilder.Entity<OrderItem>()
+                .HasRequired(oi => oi.Order)
+                .WithMany(o => o.Items)
+                .HasForeignKey(oi => oi.OrderId)
+                .WillCascadeOnDelete(true);
+
+            modelBuilder.Entity<OrderItem>()
+                .HasRequired(oi => oi.Bike)
+                .WithMany()
+                .HasForeignKey(oi => oi.BikeId)
+                .WillCascadeOnDelete(false);
         }
     }
+}

@@ -58,3 +58,5 @@ C:\Users\наш компухтер\Desktop\Новая папка (3)\Tweb_Projec
 C:\Users\наш компухтер\Desktop\Новая папка (3)\Tweb_Project\Shop\Shop.BuisnesLogic\obj\Debug\Shop.Bui.0625332E.Up2Date
 C:\Users\наш компухтер\Desktop\Новая папка (3)\Tweb_Project\Shop\Shop.BuisnesLogic\obj\Debug\Shop.BuisnesLogic.dll
 C:\Users\наш компухтер\Desktop\Новая папка (3)\Tweb_Project\Shop\Shop.BuisnesLogic\obj\Debug\Shop.BuisnesLogic.pdb
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.BuisnesLogic\obj\Debug\Shop.BuisnesLogic.Migrations.AddCartAndCartItem.resources
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\Shop.BuisnesLogic\obj\Debug\Shop.BuisnesLogic.Migrations.AddOrders.resources

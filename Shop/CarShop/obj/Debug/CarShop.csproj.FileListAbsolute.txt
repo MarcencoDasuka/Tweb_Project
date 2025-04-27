@@ -457,3 +457,6 @@ C:\Users\наш компухтер\Desktop\Новая папка (3)\Tweb_Projec
 C:\Users\наш компухтер\Desktop\Новая папка (3)\Tweb_Project\Shop\CarShop\obj\Debug\CarShop.dll
 C:\Users\наш компухтер\Desktop\Новая папка (3)\Tweb_Project\Shop\CarShop\obj\Debug\CarShop.pdb
 C:\Users\наш компухтер\Desktop\Новая папка (3)\Tweb_Project\Shop\CarShop\bin\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\bin\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Alex\Desktop\project\Tweb_Project\Shop\CarShop\bin\Microsoft.AspNet.Identity.Core.xml

@@ -1,5 +1,4 @@
 ﻿@model Shop.Domain.Entities.Bike
-
 @{
     ViewBag.Title = "Подробнее о товаре";
 }
@@ -15,8 +14,19 @@
             <h3>Описание</h3>
             <p>@Model.Description</p>
             <p><strong>Краткое описание: </strong>@Model.ShortDescription</p>
-            <p><strong>Цена: </strong>@Model.Price ₽</p>
-            <p><strong>Доступность: </strong>@(Model.UserId.HasValue ? "В наличии" : "Нет в наличии")</p>
+            <p><strong>Цена: </strong>@Model.Price.ToString("N2") ₽</p>
+
+            <!-- Форма для добавления в корзину -->
+            @using (Html.BeginForm("AddToCart", "Cart", FormMethod.Post, new { id = "add-to-cart-form" }))
+            {
+                @Html.AntiForgeryToken()
+                <input type="hidden" name="bikeId" value="@Model.Id" />
+                <div class="form-group mb-3">
+                    <label for="quantity">Количество:</label>
+                    <input type="number" name="quantity" id="quantity" class="form-control" min="1" value="1" required />
+                </div>
+                <button type="submit" class="btn btn-primary">Добавить в корзину</button>
+            }
 
             @if (ViewBag.CanDelete != null && ViewBag.CanDelete == true)
             {
@@ -33,3 +43,15 @@
         </div>
     </div>
 </div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('#add-to-cart-form').submit(function () {
+                console.log('Форма отправляется...');
+                console.log($(this).serialize());
+                return true;
+            });
+        });
+    </script>
+}

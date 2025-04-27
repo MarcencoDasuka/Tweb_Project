@@ -53,6 +53,7 @@
   <ItemGroup>
     <Compile Include="context\AppDbContext.cs" />
     <Compile Include="intefaces\IBikeRepository.cs" />
+    <Compile Include="intefaces\ICartRepository.cs" />
     <Compile Include="intefaces\IRoleRepository.cs" />
     <Compile Include="intefaces\IUserRepository.cs" />
     <Compile Include="Migrations\202503311735506_InitialCreate.cs" />
@@ -67,15 +68,27 @@
     <Compile Include="Migrations\202503312243432_FixAdminRoleAssignment.Designer.cs">
       <DependentUpon>202503312243432_FixAdminRoleAssignment.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202504211040079_AddCartAndCartItem.cs" />
+    <Compile Include="Migrations\202504211040079_AddCartAndCartItem.Designer.cs">
+      <DependentUpon>202504211040079_AddCartAndCartItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202504231817061_AddOrders.cs" />
+    <Compile Include="Migrations\202504231817061_AddOrders.Designer.cs">
+      <DependentUpon>202504231817061_AddOrders.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="repository\BikeRepository.cs" />
+    <Compile Include="repository\CartRepository.cs" />
+    <Compile Include="repository\OrderRepository.cs" />
     <Compile Include="repository\RoleRepository.cs" />
     <Compile Include="repository\UserRepository.cs" />
     <Compile Include="serviceInterface\IBikeService.cs" />
     <Compile Include="serviceInterface\IRoleService.cs" />
     <Compile Include="serviceInterface\IUserService.cs" />
     <Compile Include="service\BikeService.cs" />
+    <Compile Include="service\CartService.cs" />
+    <Compile Include="service\OrderService.cs" />
     <Compile Include="service\RoleService.cs" />
     <Compile Include="service\UserService.cs" />
   </ItemGroup>
@@ -98,6 +111,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202503312243432_FixAdminRoleAssignment.resx">
       <DependentUpon>202503312243432_FixAdminRoleAssignment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202504211040079_AddCartAndCartItem.resx">
+      <DependentUpon>202504211040079_AddCartAndCartItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202504231817061_AddOrders.resx">
+      <DependentUpon>202504231817061_AddOrders.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
